@@ -22,11 +22,11 @@ code/> </font>
 <br />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sezer1578&theme=radical">
+<img aling="left" src="https://github-readme-stats.vercel.app/api?username=sezer1578&theme=radical">
 <br />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezer1578&layout=compact&theme=radical">
+<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezer1578&layout=compact&theme=radical">
 
 ### Tech I Use
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="25" height="25">
