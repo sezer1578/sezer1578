@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" align= right width="400" height="250">
 
-### Hi there, I'm Sezer. :blush:
+### Hi Welcome To My Github Profile. :wave:
 
 ## Mobile Developer | Instagram Content Creator
 
